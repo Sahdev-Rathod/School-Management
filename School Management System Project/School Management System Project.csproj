@@ -262,6 +262,7 @@
     </Compile>
     <Compile Include="Models\CommonFn.cs" />
     <Compile Include="Models\Student.cs" />
+    <Compile Include="Models\Teacher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
